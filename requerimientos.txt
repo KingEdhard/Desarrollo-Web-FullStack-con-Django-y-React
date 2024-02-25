@@ -6,3 +6,4 @@ pillow==10.2.0
 django-storages==1.14.2
 django-ckeditor-5==0.2.11
 psycopg2==2.9.9
+django-ckeditor==6.7.1
